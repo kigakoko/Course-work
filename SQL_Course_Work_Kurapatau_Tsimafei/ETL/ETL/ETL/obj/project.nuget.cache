@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+gs3nszYR7tgfed9CVTiRPs1kSht/Ygoj4yBJDtdKmNYa4uxHyWi8Jig0mxVVzwPOA9sNwIFMun3+VyALkPyw==",
+  "success": true,
+  "projectFilePath": "D:\\Subjects\\2course\\2 sem\\DB\\SQL\\ETL\\ETL\\ETL\\ETL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y1794\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\y1794\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\y1794\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\y1794\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

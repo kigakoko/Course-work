@@ -1,0 +1,51 @@
+id,user_id,washing_machine_id,rating,comment,created_at
+1,1,1,5,Great product!,2024-06-07 16:48:49
+2,2,2,4,Good but could be better,2024-06-07 16:48:49
+3,3,3,3,Average product,2024-06-07 16:48:49
+4,4,4,2,Not so good,2024-06-07 16:48:49
+5,5,5,1,Bad product,2024-06-07 16:48:49
+6,6,6,5,Excellent!,2024-06-07 16:48:49
+7,7,7,4,Good product,2024-06-07 16:48:49
+8,8,8,3,It's okay,2024-06-07 16:48:49
+9,9,9,2,Not worth it,2024-06-07 16:48:49
+10,10,10,1,Terrible product,2024-06-07 16:48:49
+11,11,11,3,Decent,2024-06-08 10:30:00
+12,12,12,5,Amazing!,2024-06-09 12:45:00
+13,13,13,4,Very satisfied,2024-06-10 14:20:00
+14,14,14,2,Disappointed,2024-06-11 16:55:00
+15,15,15,4,Highly recommended,2024-06-12 18:10:00
+16,16,16,3,Not bad,2024-06-13 20:25:00
+17,17,17,5,Impressed!,2024-06-14 22:40:00
+18,18,18,1,Horrible experience,2024-06-15 00:55:00
+19,19,19,4,Good value for money,2024-06-16 03:10:00
+20,20,20,2,Expected better,2024-06-17 05:25:00
+21,21,21,5,Top-notch quality,2024-06-18 07:40:00
+22,22,22,3,Not as described,2024-06-19 09:55:00
+23,23,23,4,Satisfied with the purchase,2024-06-20 12:10:00
+24,24,24,2,Regret buying,2024-06-21 14:25:00
+25,25,25,3,Just okay,2024-06-22 16:40:00
+26,26,26,5,Fantastic product!,2024-06-23 18:55:00
+27,27,27,4,Great value,2024-06-24 21:10:00
+28,28,28,2,Not recommended,2024-06-25 23:25:00
+29,29,29,3,Affordable and good,2024-06-26 01:40:00
+30,30,30,1,Waste of money,2024-06-27 03:55:00
+31,31,31,4,Excellent value,2024-06-28 06:10:00
+32,32,32,5,Best purchase ever!,2024-06-29 08:25:00
+33,33,33,3,So-so product,2024-06-30 10:40:00
+34,34,34,2,Not durable,2024-07-01 12:55:00
+35,35,35,5,Highly impressed,2024-07-02 15:10:00
+36,36,36,1,Very disappointed,2024-07-03 17:25:00
+37,37,37,4,Good quality,2024-07-04 19:40:00
+38,38,38,3,Just fine,2024-07-05 21:55:00
+39,39,39,2,Expected more,2024-07-06 00:10:00
+40,40,40,5,Outstanding product!,2024-07-07 02:25:00
+41,41,41,3,Decent,2024-07-08 04:40:00
+42,42,42,5,Amazing!,2024-07-09 06:55:00
+43,43,43,4,Very satisfied,2024-07-10 09:10:00
+44,44,44,2,Disappointed,2024-07-11 11:25:00
+45,45,45,4,Highly recommended,2024-07-12 13:40:00
+46,46,46,3,Not bad,2024-07-13 15:55:00
+47,47,47,5,Impressed!,2024-07-14 18:10:00
+48,48,48,1,Horrible experience,2024-07-15 20:25:00
+49,49,49,4,Good value for money,2024-07-16 22:40:00
+50,50,50,2,Expected better,2024-07-17 00:55:00

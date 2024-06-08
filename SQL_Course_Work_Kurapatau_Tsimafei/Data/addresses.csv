@@ -1,0 +1,51 @@
+id,user_id,address_line1,address_line2,city,state,postal_code,country,created_at
+1,1,123 Main St,Apartment 2B,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+2,2,456 Oak St,Apartment 14,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+3,3,789 Pine St,Apartment 2t,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+4,4,111 Elm St,Apartment 23,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+5,5,222 Birch St,Apartment 3C,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+6,6,333 Cedar St,Apartment 2r,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+7,7,444 Dogwood St,Apartment 4D,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+8,8,555 Fir St,Apartment 2B,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+9,9,666 Grove St,Apartment 5E,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+10,10,777 Hickory St,Apartment 2v,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-07 16:48:49
+11,11,888 Maple St,Apartment 3D,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-08 10:25:00
+12,12,999 Pineapple St,Apartment 1A,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-09 12:40:00
+13,13,101 Orange St,Apartment 5C,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-10 14:55:00
+14,14,202 Banana St,Apartment 2D,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-11 17:10:00
+15,15,303 Coconut St,Apartment 4B,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-12 19:25:00
+16,16,404 Grape St,Apartment 6F,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-13 21:40:00
+17,17,505 Lemon St,Apartment 7G,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-14 23:55:00
+18,18,606 Mango St,Apartment 8H,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-15 01:10:00
+19,19,707 Pear St,Apartment 9I,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-16 03:25:00
+20,20,808 Strawberry St,Apartment 10J,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-17 05:40:00
+21,21,909 Watermelon St,Apartment 11K,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-18 07:55:00
+22,22,1001 Apple St,Apartment 12L,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-19 10:10:00
+23,23,1102 Cherry St,Apartment 13M,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-20 12:25:00
+24,24,1203 Kiwi St,Apartment 14N,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-21 14:40:00
+25,25,1304 Pine St,Apartment 15O,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-22 16:55:00
+26,26,1405 Walnut St,Apartment 16P,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-23 19:10:00
+27,27,1506 Nut St,Apartment 17Q,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-24 21:25:00
+28,28,1607 Chestnut St,Apartment 18R,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-25 23:40:00
+29,29,1708 Acorn St,Apartment 19S,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-26 01:55:00
+30,30,1809 Hazel St,Apartment 20T,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-27 04:10:00
+31,31,1910 Pecan St,Apartment 21U,Vilnius,Vilnius,LT-01100,Lithuania,2024-06-28 06:25:00
+32,32,2112 Cashew St,Apartment 23W,Paris,Île-de-France,75001,France,2024-06-29 08:40:00
+33,33,2213 Hazelnut St,Apartment 24X,Berlin,Berlin,10178,Germany,2024-06-30 10:55:00
+34,34,2314 Walnut St,Apartment 25Y,London,England,EC1A 1AA,United Kingdom,2024-07-01 13:10:00
+35,35,2415 Pecan St,Apartment 26Z,Rome,Lazio,00100,Italy,2024-07-02 15:25:00
+36,36,2516 Almond St,Apartment 27AA,Barcelona,Catalonia,08001,Spain,2024-07-03 17:40:00
+37,37,2617 Cashew St,Apartment 28AB,Amsterdam,North Holland,1012 JS,Netherlands,2024-07-04 19:55:00
+38,38,2718 Hazelnut St,Apartment 29AC,Brussels,Brussels,1000,Belgium,2024-07-05 22:10:00
+39,39,2819 Walnut St,Apartment 30AD,Vienna,Vienna,1010,Austria,2024-07-06 00:25:00
+40,40,2920 Pecan St,Apartment 31AE,Prague,Prague,110 00,Czech Republic,2024-07-07 02:40:00
+41,41,3021 Almond St,Apartment 32AF,Budapest,Budapest,1051,Hungary,2024-07-08 04:55:00
+42,42,3122 Cashew St,Apartment 33AG,Warsaw,Masovian Voivodeship,00-001,Poland,2024-07-09 07:10:00
+43,43,3223 Hazelnut St,Apartment 34AH,Stockholm,Stockholm,111 29,Sweden,2024-07-10 09:25:00
+44,44,3324 Walnut St,Apartment 35AI,Oslo,Oslo,0151,Norway,2024-07-11 11:40:00
+45,45,3425 Pecan St,Apartment 36AJ,Copenhagen,Capital Region,1050,Denmark,2024-07-12 13:55:00
+46,46,3526 Almond St,Apartment 37AK,Helsinki,Uusimaa,00100,Finland,2024-07-13 16:10:00
+47,47,3627 Cashew St,Apartment 38AL,Athens,Attica,105 54,Greece,2024-07-14 18:25:00
+48,48,3728 Hazelnut St,Apartment 39AM,Istanbul,Istanbul,34110,Turkey,2024-07-15 20:40:00
+49,49,3829 Walnut St,Apartment 40AN,Moscow,Moscow,101000,Russia,2024-07-16 22:55:00
+50,50,3930 Pecan St,Apartment 41AO,Dublin,Leinster,D01 F5P2,Ireland,2024-07-17 01:10:00
